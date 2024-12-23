@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Ankit<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<table align="center">
-  <tr>
-    <td style="font-size: 25px; font-family: Montserrat;">I'm a</td>
-    <td>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="font-size: 25px; font-family: Montserrat; border: none; vertical-align: middle;">
+      I'm a
+    </td>
+    <td style="border: none; vertical-align: middle;">
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&pause=1000&width=435&lines=Engineer;Learner;Tech-Enthusiast;Problem-Solver" alt="Typing SVG" />
       </a>
     </td>
   </tr>
 </table>
-
-
 <br>
 
 <picture>
