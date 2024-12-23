@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Ankit<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <font size=25>I'm a</font><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=4000&pause=1000&width=435&height=40&lines=Engineer;Learner;Tech-Enthusiast;Problem-Solver" alt="Typing SVG" /></a>
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; margin: 0;">
+  <span style="font-size: 25px; font-family: Montserrat; line-height: 40px;">I'm a</span>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=25&duration=4000&pause=1000&width=435&height=40&lines=Engineer;Learner;Tech-Enthusiast;Problem-Solver" alt="Typing SVG" />
+  </a>
 </p>
 <br>
 
