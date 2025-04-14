@@ -97,7 +97,8 @@
 </p>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Mobile_App.gif?raw=true" width = 50px> </picture> App Development
+### <img src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" width = 50px> App Development
+
 <p align="center"> 
   &emsp; 
   <a href="https://dart.dev/" target="_blank"> 
@@ -176,4 +177,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GitHub banner" width="25%" />
 
