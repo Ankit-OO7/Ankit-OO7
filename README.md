@@ -21,7 +21,7 @@
 - 🤝 I thrive on finding software-based solutions for any issue.
 - 🧑‍🎓 I’m currently studying Chemical Engineering.
 - 💬 Ask me about tech trends, or anything cool in the world of code.
-<br><br><br><br>
+<br><br><br>
 
 <!---⚡ Fun fact
  👯 --> 
