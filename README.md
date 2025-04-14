@@ -25,7 +25,7 @@
 
 <!---⚡ Fun fact
  👯 --> 
-## 🌐 Socials:
+## 🌐 Let's Connect:
 
 <p align="center">
 	<a href="mailto:ankitektasingh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
