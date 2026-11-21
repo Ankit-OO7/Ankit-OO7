@@ -15,7 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="260"/>
+<img align="right" src="./assets/caffeine.svg" width="270" alt="Rotating 3D caffeine molecule"/>
 
 - 🧑‍🎓 Studying **Chemical Engineering** at **IIT Guwahati**
 - 🔬 Applying **machine learning to process engineering**: fluidized beds, heat integration, industrial data
@@ -114,6 +114,26 @@ SQL-driven inventory monitoring, forecasting and reorder optimization for a reta
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </td></tr>
 </table>
+
+---
+
+## 🌍 Explore in 3D
+
+<p align="center">
+  <a href="https://ankit-oo7.github.io/Heritage_sites_globe/"><img src="./assets/globe.svg" width="480" alt="Rotating globe. Click to open the interactive 3D Heritage Sites Globe"/></a>
+</p>
+
+---
+
+## 🏙️ My contributions in 3D
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+  </picture>
+</p>
 
 ---
 
