@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankit-kumar-singh-5b9281261/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ankitektasingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ankit-OO7&style=for-the-badge&color=2c5364&label=Profile+views" alt="Profile views"/>
 </p>
 
